@@ -1,0 +1,6 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "python.pythonPath": "C:\\Users\\Urvan\\.conda\\envs\\bios_dvp\\python.exe",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true
+}
